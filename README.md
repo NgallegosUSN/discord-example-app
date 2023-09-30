@@ -32,7 +32,7 @@ Before you start, you'll need to install [NodeJS](https://nodejs.org/en/download
 - `applications.commands`
 - `bot` (with Send Messages enabled)
 
-
+ 
 Configuring the app is covered in detail in the [getting started guide](https://discord.com/developers/docs/getting-started).
 
 ### Setup project
